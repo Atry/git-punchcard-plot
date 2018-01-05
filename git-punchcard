@@ -4,7 +4,7 @@
 # Edited by Intrepid (https://github.com/intrepid/) Apr 12, 2012
 
 import math
-import cairo
+import cairocffi as cairo
 import sys
 import subprocess
 import os
